@@ -22,3 +22,17 @@ animal = {
   "personality_traits" => ['calm', 'alert', 'suspicious', 'confident']
 }
 puts animal
+
+customer = {
+  "first_name" => "Sarah",
+  "last_name" => "Carter",
+  "age" => 39,
+  "gender" => "female",
+  "is_repeat_customer" => true,
+  "zip_code" => 99705,
+  "subscribes_to_newsletter" => false,
+  "email" => "sarahmcarter@hotmail.com",
+  "referred_by" => "Kathy Carter",
+  "referred_customers" => ['Ida Olson', 'Caroline Carter', 'Brenda McCain']
+}
+puts customer 

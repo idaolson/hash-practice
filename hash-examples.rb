@@ -9,3 +9,16 @@ car = {
   "repairs" => ['roof replace', 'engine rebuild', 'repaint']
 }
 puts car
+
+animal = {
+  "species" => "dog",
+  "breed" => "akbash",
+  "color" => "white",
+  "is_guardian" => true,
+  "is_herder" => false,
+  "max_weight" => 140,
+  "min_weight" => 80,
+  "region_of_origin" => "Turkey",
+  "personality_traits" => ['calm', 'alert', 'suspicious', 'confident']
+}
+puts animal
